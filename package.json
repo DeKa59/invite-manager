@@ -32,7 +32,7 @@
 		"amqplib": "0.5.5",
 		"axios": "0.19.0",
 		"bufferutil": "4.0.1",
-		"chart.js": "2.9.3",
+		"chart.js": "2.9.4",
 		"chartjs-node": "1.7.1",
 		"chartjs-plugin-datalabels": "0.7.0",
 		"eris": "github:abalabahaha/eris#1c395d2b7ecec51efb4138d559a8dbe502f567e7",
